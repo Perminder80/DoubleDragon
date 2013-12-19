@@ -1,0 +1,51 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../LeapDeveloperKit/Examples/UnitySandbox/Assets/Scripts/Leap/LeapInput.cs">
+    <Files>
+      <File FileName="../../LeapDeveloperKit/Examples/UnitySandbox/Assets/Scripts/Leap/LeapInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="113" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/SmoothFollow2D.js" Line="12" Column="34" />
+      <File FileName="Assets/Scripts/Score.js" Line="4" Column="1" />
+      <File FileName="Assets/DogFollow.js" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAI.js" Line="21" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Standard Assets (Mobile)" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Character Controllers" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
